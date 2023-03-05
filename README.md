@@ -1,1 +1,1 @@
-# GoToCry-Ransomware
+# My Ransomware coded in Python :)
