@@ -1,1 +1,1 @@
-# My Ransomware coded in Python :)
+# Ransomware coded by me in Python :)
